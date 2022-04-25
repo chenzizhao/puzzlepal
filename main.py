@@ -68,4 +68,5 @@ if __name__ == "__main__":
         piece_ = cv2.imread('./sample.jpeg', cv2.IMREAD_GRAYSCALE)
         piece = crop_piece(piece_)
         img3 = callback(img1=piece)
+        plt.imsave("match.jpg", img3)
         plt.imshow(img3,), plt.show()

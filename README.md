@@ -3,7 +3,7 @@
 
 ... who is better at locating jigsaw puzzle pieces than I can.
 
-![rosetta](./original/1.png)
+![sample_match](./match.jpg)
 
 [This puzzle](https://www.britishmuseumshoponline.org/rosetta-stone-jigsaw-puzzle.html) incentizes this script. Only picture patterns are used, so this script can't help with those without a picture such as [the white hell](https://www.amazon.ca/gp/product/B008DCQE3O/)
 
